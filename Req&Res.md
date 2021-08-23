@@ -1,4 +1,4 @@
-Res
+status code도 함께 있었음 좋겠어요 🥺
 
 # 회원가입 중복없을때
 
@@ -14,7 +14,7 @@ Res
 ### Response
 ```JSON
 {
-  "retult": true,
+  "result": true,
   "message": "회원가입 완료",
   "data": {
     "fieldCount": 0,
