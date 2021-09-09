@@ -1,4 +1,4 @@
-## 주요 기능
+# Main Senario
 1. 세탁기 선택
 > 1. 세탁기 리스트로부터 세탁기 UUID를 이용하여 예약 선택
 
@@ -20,4 +20,11 @@
 6. 포인트 충전  
 > 1. 인앱결제로 카카오페이 테스트계정 연동, 
 > 2. 결제된 결과 서버에 갱신 POST로 user 정보 다 준다.
+
+---
+
+## Things to be added
+- [ ] add features with `POINT`
+- [ ] make in-app purchase with sth like Kakaopay
+
 
