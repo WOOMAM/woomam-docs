@@ -2,6 +2,7 @@
 2021 OSS Competition - WOOCO
 
 [![See at Youtube](https://user-images.githubusercontent.com/22142225/132615432-dba977bf-bded-44fe-b8db-71a667b00da4.png)](https://youtu.be/zQ8pYreajUY)
+*누르면 유튜브로 이동합니다*
 
 이번 2021 공개SW개발자대회에 참가한 **우아한코끼리(우코)** 에요 😄
 
